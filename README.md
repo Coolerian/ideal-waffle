@@ -1,2 +1,2 @@
 # ideal-waffle
-Bla-bla-bla
+Bla-bla
